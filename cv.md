@@ -9,8 +9,8 @@ Education
 
 Work experience
 ======
-* MSci Project: Hunting for Intermediate‑Mass Black Hole Binaries
- * UNIVERSITY COLLEGE LONDON, London, UK
+&rarr MSci Project: Hunting for Intermediate‑Mass Black Hole Binaries
+    UNIVERSITY COLLEGE LONDON, London, UK
  * Intermediate Mass Black Holes (IMBH) are still one of the big mysteries in astronomy and astrophysics as so far there is no evidence of the existence of black holes with masses between 100 M⊙ and 105 M⊙.
     * Supervised by Prof. Daisuke Kawata‑ analysing the behaviour of IMBHs and investigating their interaction with a stellar companion.
     * Calculations of physical constraints of the orbital parameters and inspection of star viability based on its stellar classification
@@ -19,8 +19,8 @@ Work experience
 
 ======
 
-* Group Project: VOC Analysis For Disease Detection: A Critical Assessment Of Non‑Invasive Screening Methods
- * UNIVERSITY COLLEGE LONDON, London, UK
+&rarr Group Project: VOC Analysis For Disease Detection: A Critical Assessment Of Non‑Invasive Screening Methods
+    UNIVERSITY COLLEGE LONDON, London, UK
  * Achieved 76.81% in the third‑year Physics group project, investigating the real potential of volatile organic compounds as a better non‑invasive detection method of COVID‑19 and various other bio‑markers.
     * Supervised by Prof. Gaetana Laricchia‑ analysing volatile organic compounds for medical diagnostics.
     * Performed analysis of various diseases which emit bio‑markers in the form of VOCs such as cancers, COVID‑19 or Alzheimer’s disease.
