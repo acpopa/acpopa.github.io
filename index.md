@@ -2,6 +2,8 @@
 layout: default
 ---
 
+ {% include navigation.html %}
+
 # Astrophysics and Space Science Student
 
 I am an Erasmus Mundus Joint Master student in Astrophysics and Space Science at the Università degli Studi di Roma "Tor Vergata" under an EMJM scholarship awarded by the European Union through European Education and Culture Executive Agency (EACEA). I am currently taking courses in Quantum Mechanics, Modern Astrophysics, Mathematical Methods, Radiative Processes and Numerical Methods.
