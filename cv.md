@@ -17,8 +17,6 @@ Work experience
     * Developed custom Python code to automate mass analysis for binary system and produce astrometric tracks for IMBH‑star systems.
     * Correlating the results with the ongoing mission results such as Gaia and making prediction for the upcoming JASMINE mission.
 
-======
-
 &#8594; Group Project: VOC Analysis For Disease Detection: A Critical Assessment Of Non‑Invasive Screening Methods
  * UNIVERSITY COLLEGE LONDON, London, UK
  * Achieved 76.81% in the third‑year Physics group project, investigating the real potential of volatile organic compounds as a better non‑invasive detection method of COVID‑19 and various other bio‑markers.
