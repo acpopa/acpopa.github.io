@@ -3,8 +3,6 @@ layout: default
 title: "CV"
 ---
 
-{% include base_path %}
-
 Education
 ======
 * MSc in Astrophysics and Space Science,  Università degli Studi di Roma "Tor Vergata", 2026 (expected)
