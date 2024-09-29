@@ -7,7 +7,7 @@ Education
 * MSc in Astrophysics and Space Science,  Università degli Studi di Roma "Tor Vergata", 2026 (expected)
 * M.Sci. in Physics, University College London, UK, 2022
 
-Work experience
+Research experience
 ======
 &#8594; MSci Project: Hunting for Intermediate‑Mass Black Hole Binaries
  *  UNIVERSITY COLLEGE LONDON, London, UK
