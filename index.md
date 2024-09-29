@@ -10,7 +10,7 @@ I am an Erasmus Mundus Joint Master student in Astrophysics and Space Science at
 
 I am currently taking courses in Quantum Mechanics, Modern Astrophysics, Mathematical Methods, Radiative Processes and Numerical Methods.
 
-I completed my education with a integrated degree in Physics at University College London, focusing on Astronomy and Astrophysics in the final year.
+I completed my education with an integrated degree in Physics at University College London, focusing on Astronomy and Astrophysics in the final year.
 
 Previously, I also worked at Northeastern University London as part of their Residence Life Services Department and at University of London as part of their Intercollegiate Halls Services Department.
 
