@@ -12,4 +12,6 @@ I am currently taking courses in Quantum Mechanics, Modern Astrophysics, Mathema
 
 I completed my education with a integrated degree in Physics at University College London, focusing on Astronomy and Astrophysics in the final year.
 
-Previously, I also worked at Northeastern University London as part of their Residence Life Services Department and at University of London as part of their Intercollegiate Halls Services Department . Originally, I come from a small town in Romania.
+Previously, I also worked at Northeastern University London as part of their Residence Life Services Department and at University of London as part of their Intercollegiate Halls Services Department.
+
+Originally, I come from a small city in Romania.
