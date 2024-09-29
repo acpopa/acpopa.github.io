@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "CV"
-permalink: /cv/
-author_profile: false
 ---
 
 {% include base_path %}
