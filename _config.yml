@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+title: Andrei-Cătălin Popa
+description: EMJM in Astrophysics and Space Science
+url: https://acpopa.github.io
+logo: profile.jpg
+repository: acpopa/acpopa.github.io
+author:
+  bio              : "Astrophysics and Space Science Student"
+  location         : "Rome"
+  employer         : "Tor Vergata University Rome"
+  email            : "andrei-catalin.popa@students.uniroma2.eu"
+  github           : "acpopa"
+
+show_downloads: false
+markdown: kramdown
