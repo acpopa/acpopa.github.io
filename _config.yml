@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 url: https://acpopa.github.io
 title: Andrei-Cătălin Popa
+description: This is my academic website.
 logo: profile.jpg
 show_downloads: false
 markdown: kramdown
