@@ -21,7 +21,7 @@ permalink: /cv/
 <p class="cv-date">2024 – 2026</p>
 <p>Jointly enrolled at the Université Côte d'Azur (Nice) and the Università degli Studi di Roma "Tor Vergata".<br>
 <em>Thesis: Characterising M-dwarf Stars as Exoplanet Hosts — Preparation for the PLATO Mission.</em><br>
-<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).</p>
+<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala).</p>
 </div>
 
 <div class="cv-entry">
@@ -29,7 +29,7 @@ permalink: /cv/
 <p class="cv-meta">University College London</p>
 <p class="cv-date">2018 – 2022</p>
 <p><em>Thesis: Hunting for Intermediate-Mass Black Hole Binaries.</em><br>
-<strong>Supervisor</strong>: Prof. Daisuke Kawata (Mullard Space Science Laboratory).</p>
+<strong>Supervisor</strong>: Prof. Daisuke Kawata (MSSL).</p>
 </div>
 
 ## Research Experience
