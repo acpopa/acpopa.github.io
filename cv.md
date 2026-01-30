@@ -21,7 +21,7 @@ permalink: /cv/
 <p class="cv-date">2024 – 2026</p>
 <p>Jointly enrolled at the Université Côte d'Azur (Nice) and the Università degli Studi di Roma "Tor Vergata".<br>
 <em>Thesis: Characterising M-dwarf Stars as Exoplanet Hosts — Preparation for the PLATO Mission.</em><br>
-Supervisors: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).</p>
+<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).</p>
 </div>
 
 <div class="cv-entry">
@@ -29,7 +29,7 @@ Supervisors: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).<
 <p class="cv-meta">University College London</p>
 <p class="cv-date">2018 – 2022</p>
 <p><em>Thesis: Hunting for Intermediate-Mass Black Hole Binaries.</em><br>
-<strong>Supervisor</strong>strong>: Prof. Daisuke Kawata (Mullard Space Science Laboratory).</p>
+<strong>Supervisor</strong>: Prof. Daisuke Kawata (Mullard Space Science Laboratory).</p>
 </div>
 
 ## Research Experience
@@ -39,7 +39,7 @@ Supervisors: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).<
 <p class="cv-meta">Observatoire de la Côte d'Azur, Nice</p>
 <p class="cv-date">Sept 2025 – present</p>
 <p>M-dwarf characterisation for the PLATO mission using SED fitting and bolometric flux calculations.<br>
-Supervisors: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).</p>
+<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala).</p>
 </div>
 
 <div class="cv-entry">
@@ -47,7 +47,7 @@ Supervisors: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).<
 <p class="cv-meta">Astrophysics Research Institute, Liverpool John Moores University</p>
 <p class="cv-date">Jul – Sept 2025</p>
 <p>White dwarf cooling sequences and IR colour excess in NGC 6397.<br>
-Supervisor: Prof. Maurizio Salaris.</p>
+<strong>Supervisor</strong>: Prof. Maurizio Salaris.</p>
 </div>
 
 <div class="cv-entry">
@@ -55,7 +55,7 @@ Supervisor: Prof. Maurizio Salaris.</p>
 <p class="cv-meta">University College London</p>
 <p class="cv-date">Jul – Sept 2022</p>
 <p>Galactic kinematics and stellar populations with Gaia DR3.<br>
-Supervisor: Dr. Jason Sanders.</p>
+<strong>Supervisor</strong>: Dr. Jason Sanders.</p>
 </div>
 
 <div class="cv-entry">
@@ -63,7 +63,7 @@ Supervisor: Dr. Jason Sanders.</p>
 <p class="cv-meta">UCL / Mullard Space Science Laboratory</p>
 <p class="cv-date">Oct 2021 – Mar 2022</p>
 <p>Detectability of intermediate-mass black holes via astrometry.<br>
-Supervisor: Prof. Daisuke Kawata.</p>
+<strong>Supervisor</strong>: Prof. Daisuke Kawata.</p>
 </div>
 
 ## Scholarships & Awards
