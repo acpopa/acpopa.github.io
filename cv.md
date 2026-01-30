@@ -19,7 +19,9 @@ permalink: /cv/
 <h3>MSc in Astrophysics and Space Science</h3>
 <p class="cv-meta">Erasmus Mundus Joint Master's (MASS)</p>
 <p class="cv-date">2024 – 2026</p>
-<p>Jointly enrolled at Université Côte d'Azur (Nice) and Università degli Studi di Roma "Tor Vergata". Thesis: Characterising M-dwarf stars as exoplanet hosts, in preparation for the PLATO mission.</p>
+<p>Jointly enrolled at Université Côte d'Azur (Nice) and Università degli Studi di Roma "Tor Vergata". 
+  
+  Thesis: Characterising M-dwarf stars as exoplanet hosts, in preparation for the PLATO mission.</p>
 </div>
 
 <div class="cv-entry">
