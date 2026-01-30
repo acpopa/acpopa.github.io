@@ -41,5 +41,3 @@ My research combines observational data with robust modelling and reproducible a
 ## Tools & Methods
 
 I primarily work with **Python** for data analysis and pipeline development, alongside astronomical tools such as **TOPCAT**, **DS9**, and stellar evolution codes including **CESAM** and **GYRE**. 
-
-I believe strongly in **reproducible research** and **open-source software** — my analysis pipelines are version-controlled, well-documented, and designed to be easily adaptable for future work.
