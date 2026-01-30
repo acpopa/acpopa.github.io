@@ -29,7 +29,7 @@ Supervisors: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala University).<
 <p class="cv-meta">University College London</p>
 <p class="cv-date">2018 – 2022</p>
 <p><em>Thesis: Hunting for Intermediate-Mass Black Hole Binaries.</em><br>
-Supervisor: Prof. Daisuke Kawata (Mullard Space Science Laboratory).</p>
+<strong>Supervisor</strong>strong>: Prof. Daisuke Kawata (Mullard Space Science Laboratory).</p>
 </div>
 
 ## Research Experience
