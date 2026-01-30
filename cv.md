@@ -20,14 +20,15 @@ permalink: /cv/
 <p class="cv-meta">Erasmus Mundus Joint Master's (MASS)</p>
 <p class="cv-date">2024 – 2026</p>
 <p>Jointly enrolled at Université Côte d'Azur (Nice) and Università degli Studi di Roma "Tor Vergata". 
-Thesis: Characterising M-dwarf stars as exoplanet hosts, in preparation for the PLATO mission.</p>
+
+<strong>Thesis</strong>: Characterising M-dwarf stars as exoplanet hosts, in preparation for the PLATO mission.</p>
 </div>
 
 <div class="cv-entry">
 <h3>MSci in Physics — First Class Honours</h3>
 <p class="cv-meta">University College London</p>
 <p class="cv-date">2018 – 2022</p>
-<p>Final average 73%. Thesis: "Hunting for Intermediate-Mass Black Hole Binaries".</p>
+<p> <strong>Thesis</strong>: "Hunting for Intermediate-Mass Black Hole Binaries".</p>
 </div>
 
 ## Research Experience
