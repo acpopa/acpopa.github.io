@@ -6,7 +6,7 @@ permalink: /teaching/
 
 # Teaching & Outreach
 
-I'm passionate about science communication and making astronomy accessible to everyone.
+I'm passionate about science communication and making astronomy and astrophysics accessible to everyone.
 
 ## Teaching Experience
 
