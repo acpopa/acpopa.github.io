@@ -71,7 +71,7 @@ permalink: /cv/
 - **2024–2026:** Erasmus Mundus Joint Master's Scholarship (EACEA) — €33,600
 - **2022:** UCL Summer Research Internship Scholarship — £2,000
 - **2022:** Ogden Trust "Teach Physics" Internship — £1,400
-- **2018–2022:** UCL EU Bursary — £10,000 total
+- **2018–2022:** UCL EU Bursary — £10,000
 
 ## Skills
 
