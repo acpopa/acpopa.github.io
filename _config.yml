@@ -1,0 +1,16 @@
+title: "Andrei-Cătălin Popa"
+description: "EMJM Astrophysics & Space Science | M-dwarf Characterisation | Exoplanets"
+url: "https://acpopa.github.io"
+baseurl: ""
+
+author:
+  name: "Andrei-Cătălin Popa"
+  bio: "EMJM Astrophysics & Space Science Student"
+  location: "Nice, France"
+  employer: "Université Côte d'Azur"
+  email: "andrei-catalin.popa@students.uniroma2.eu"
+  github: "acpopa"
+
+markdown: kramdown
+kramdown:
+  input: GFM
