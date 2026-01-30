@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-My research combines observational data with robust modelling and reproducible analysis pipelines. I am particularly interested in stellar characterisation for exoplanet science and the physics of low-mass stars.
+My research combines observational data with robust modelling and reproducible analysis pipelines. I am particularly interested in stellar characterisation for exoplanet science and the physics of stars.
 
 ## Current Project
 
