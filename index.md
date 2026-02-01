@@ -14,8 +14,6 @@ I am an Erasmus Mundus Joint Master's student in **Astrophysics and Space Scienc
 
 My research focuses on **characterising M-dwarf stars as exoplanet hosts** in preparation for the ESA PLATO mission. I previously completed my MSci in Physics at University College London with First Class Honours, during which my thesis investigated the detectability of intermediate-mass black holes using astrometry.
 
-I aim to further develop my expertise in stellar astrophysics as it naturally connects theoretical modelling with high-precision observational data. I am driven by questions that integrate robust modelling with the interpretation of photometric and spectroscopic observations, such as characterising exoplanet hosts, probing stellar interiors through asteroseismology, and understanding the physics of white-dwarf cooling sequences.
-
 <div class="highlight-box">
 <h3>Research Interests</h3>
 <ul>
@@ -24,5 +22,19 @@ I aim to further develop my expertise in stellar astrophysics as it naturally co
 <li><strong>White dwarf physics</strong> — cooling sequences, debris discs, and atmospheric properties of stellar remnants</li>
 </ul>
 </div>
+
+I aim to further develop my expertise in stellar astrophysics as it naturally connects theoretical modelling with high-precision observational data. I am driven by questions that integrate robust modelling with the interpretation of photometric and spectroscopic observations, such as characterising exoplanet hosts, probing stellar interiors through asteroseismology, and understanding the physics of white-dwarf cooling sequences.
+
+## Recent Updates
+
+- **2026:** Started master's thesis on M-dwarf characterisation for the PLATO mission at Observatoire de la Côte d'Azur.
+
+- **2026:** Started master's thesis on M-dwarf characterisation for the PLATO mission at Observatoire de la Côte d'Azur.
+
+- **2025:** Summer research project on white dwarf cooling sequences at the Astrophysics Research Institute & Liverpool John Moores University.
+
+- **2024:** Started Erasmus Mundus Joint Master's in Astrophysics and Space Science.
+
+- **2022:** Graduated from UCL with MSci Physics (First Class Honours).
 
 For more details, see my [Research](research/) page or my [CV](cv/).
