@@ -27,10 +27,10 @@ I aim to further develop my expertise in stellar astrophysics as it naturally co
 
 ## Recent Updates
 
-- **2026:** Started master's thesis on M-dwarf characterisation for the PLATO mission at Observatoire de la Côte d'Azur.
-- **2026:** Started master's internship on investigation of stellar parameters of FGK stars at Observatoire de la Côte d'Azur.
-- **2025:** Summer research project on white dwarf cooling sequences at the Astrophysics Research Institute & Liverpool John Moores University.
-- **2024:** Started Erasmus Mundus Joint Master's in Astrophysics and Space Science.
+- **2026:** Master's thesis on M-dwarf stars characterisation for the PLATO mission at OCA.
+- **2026:** Master's internship on FGK stellar parameters investigation at OCA.
+- **2025:** Summer research project on white dwarf cooling sequences at ARI & LJMU John.
+- **2024:** Erasmus Mundus Joint Master's in Astrophysics and Space Science (MASS).
 - **2022:** Graduated from UCL with MSci Physics (First Class Honours).
 
 For more details, see my [Research](research/) page or my [CV](cv/).
