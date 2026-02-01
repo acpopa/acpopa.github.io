@@ -30,9 +30,10 @@
       {{ content }}
     </main>
   </div>
-
+  
   <footer class="site-footer">
-    <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Powered by <a href="https://jekyllrb.com">Jekyll</a> & <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>.</p>
-  </footer>
+  <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Powered by <a href="https://jekyllrb.com">Jekyll</a> & <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/">Minimal Mistakes</a>.<br>
+  Site last updated {{ 'now' | date: "%Y-%m-%d" }}.</p>
+</footer>
 </body>
 </html>
