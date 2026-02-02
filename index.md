@@ -18,7 +18,7 @@ My research focuses on **characterising M-dwarf stars as exoplanet hosts** in pr
 <h3>Research Interests</h3>
 <ul>
 <li><strong>Stellar and sub-stellar astrophysics</strong> — characterisation of low-mass stars and exoplanet hosts through photometric and spectroscopic observations</li>
-<li><strong>Stellar parameters and evolution</strong> — deriving fundamental properties (luminosities, radii, effective temperatures, masses, surface gravities) using spectral energy distributions and bolometric fluxes</li>
+<li><strong>Stellar parameters and evolution</strong> — deriving fundamental properties (luminosities, radii, effective temperatures, masses, surface gravities)</li>
 <li><strong>White dwarf physics</strong> — cooling sequences, debris discs, and atmospheric properties of stellar remnants</li>
 </ul>
 </div>
