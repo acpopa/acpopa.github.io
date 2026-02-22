@@ -17,18 +17,19 @@ My research focuses on **characterising M-dwarf stars as exoplanet hosts** in pr
 <div class="highlight-box">
 <h3>Research Interests</h3>
 <ul>
-<li><strong>Stellar and sub-stellar astrophysics</strong> — characterisation of low-mass stars and exoplanet hosts through photometric and spectroscopic observations</li>
-<li><strong>Stellar parameters and evolution</strong> — deriving fundamental properties (luminosities, radii, effective temperatures, masses, surface gravities)</li>
-<li><strong>White dwarf physics</strong> — cooling sequences, debris discs, and atmospheric properties of stellar remnants</li>
+<li><strong>Stellar and sub-stellar astrophysics</strong></li>
+<li><strong>Stellar parameters and evolution</strong></li>
+<li><strong>Asteroseismology</strong></li>
 </ul>
 </div>
 
-I aim to further develop my expertise in stellar astrophysics as it naturally connects theoretical modelling with high-precision observational data. I am driven by questions that integrate robust modelling with the interpretation of photometric and spectroscopic observations, such as characterising exoplanet hosts, probing stellar interiors through asteroseismology, and understanding the physics of white-dwarf cooling sequences.
+I aim to further develop my expertise in stellar astrophysics as it naturally connects theoretical modelling with high-precision observational data. I am driven by questions that integrate robust modelling with the interpretation of photometric and spectroscopic observations, such as characterising exoplanet hosts, probing stellar interiors through asteroseismology, and derivation of fundamental stellar parameters.
 
 ## Recent Updates
 
 - **2026:** Master's thesis on M-dwarf stars characterisation for the PLATO mission at OCA.
-- **2026:** Master's internship on FGK stellar parameters investigation at OCA.
+- **2026:** Winter School on "Modern Methodologies for Space Science" at UNITOV.
+- **2026:** Master's internship on fundamental parameters of FGK stars at OCA.
 - **2025:** Summer research project on white dwarf cooling sequences at ARI & LJMU.
 - **2025:** Summer School on "Big Data in Astronomy" at UBG.
 - **2025:** Winter School on "Spectroscopic Data Reduction" at UNITOV.
