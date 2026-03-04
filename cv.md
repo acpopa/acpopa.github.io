@@ -19,17 +19,13 @@ permalink: /cv/
 <h3>MSc in Astrophysics and Space Science</h3>
 <p class="cv-meta">Erasmus Mundus Joint Master's (MASS)</p>
 <p class="cv-date">2024 – 2026</p>
-<p>Jointly enrolled at the Université Côte d'Azur (Nice) and the Università degli Studi di Roma "Tor Vergata".<br>
-<em>Thesis: Characterising M-dwarf Stars as Exoplanet Hosts — Preparation for the PLATO Mission.</em><br>
-<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA), Dr. Ulrike Heiter (Uppsala) & Dr. Valentina D'Orazi (Tor Vergata).</p>
+<p>Jointly enrolled at the Université Côte d'Azur and the Università degli Studi di Roma "Tor Vergata".<br>
 </div>
 
 <div class="cv-entry">
 <h3>MSci in Physics — First Class Honours</h3>
 <p class="cv-meta">University College London</p>
 <p class="cv-date">2018 – 2022</p>
-<p><em>Thesis: Hunting for Intermediate-Mass Black Hole Binaries.</em><br>
-<strong>Supervisor</strong>: Prof. Daisuke Kawata (MSSL & UCL).</p>
 </div>
 
 ## Research Experience
@@ -38,7 +34,7 @@ permalink: /cv/
 <h3>Master's Thesis Research</h3>
 <p class="cv-meta">Observatoire de la Côte d'Azur, Nice</p>
 <p class="cv-date">Sept 2025 – present</p>
-<p>M-dwarf characterisation for the PLATO mission using SED fitting and bolometric flux calculations.<br>
+<p>Characterising M-dwarf Stars as Exoplanet Hosts in preparation for the PLATO Mission.<br>
 <strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA), Dr. Ulrike Heiter (Uppsala) & Dr. Valentina D'Orazi (Tor Vergata).</p>
 </div>
 
@@ -48,14 +44,6 @@ permalink: /cv/
 <p class="cv-date">Jul – Sept 2025</p>
 <p>White dwarf cooling sequences and IR colour excess in NGC 6397.<br>
 <strong>Supervisor</strong>: Prof. Maurizio Salaris.</p>
-</div>
-
-<div class="cv-entry">
-<h3>Research Internship</h3>
-<p class="cv-meta">University College London</p>
-<p class="cv-date">Jul – Sept 2022</p>
-<p>Galactic kinematics and stellar populations with Gaia DR3.<br>
-<strong>Supervisor</strong>: Dr. Jason Sanders.</p>
 </div>
 
 <div class="cv-entry">
@@ -90,10 +78,9 @@ permalink: /cv/
 
 ## Service & Leadership
 
-- **Student Representative**, Quality Evaluation Committee — MASS (Rome 2024–25)
+- **Student Representative**, Quality Evaluation Committee — MASS (2024–25)
 - **Handball Referee**, England Handball Association (2023–present)
-- **President**, UCL Handball Club (2020–21)
-- **Treasurer**, Engineers Without Borders UCL (2020–21)
+- **Member**, Mensa Romania (2017–present)
 
 ## Professional Experience
 
@@ -108,5 +95,5 @@ permalink: /cv/
 <h3>Resident Advisor</h3>
 <p class="cv-meta">International Hall, University of London</p>
 <p class="cv-date">Aug 2021 – Sept 2022</p>
-<p>Supported residential community of 400+ students through on-call assistance and peer mentorship.</p>
+<p>Supported residential community of 800+ students through on-call assistance and peer mentorship.</p>
 </div>
