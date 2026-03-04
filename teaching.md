@@ -57,7 +57,7 @@ I'm passionate about science communication and making astronomy and astrophysics
 ## Volunteering
 
 <div class="entry">
-<h3>Volunteer</h3>
+<h3>Alumni Volunteer</h3>
 <p class="entry-meta">Oxford for Romania Foundation · 2022</p>
 <p>Supported the delivery of the Oxford for Romania Summer School, empowering Romanian high-school students with limited access to higher education opportunities.</p>
 </div>
