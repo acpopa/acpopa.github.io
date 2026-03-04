@@ -29,7 +29,7 @@ permalink: /cv/
 <p class="cv-meta">University College London</p>
 <p class="cv-date">2018 – 2022</p>
 <p><em>Thesis: Hunting for Intermediate-Mass Black Hole Binaries.</em><br>
-<strong>Supervisor</strong>: Prof. Daisuke Kawata (MSSL).</p>
+<strong>Supervisor</strong>: Prof. Daisuke Kawata (MSSL & UCL).</p>
 </div>
 
 ## Research Experience
@@ -39,7 +39,7 @@ permalink: /cv/
 <p class="cv-meta">Observatoire de la Côte d'Azur, Nice</p>
 <p class="cv-date">Sept 2025 – present</p>
 <p>M-dwarf characterisation for the PLATO mission using SED fitting and bolometric flux calculations.<br>
-<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA) & Dr. Ulrike Heiter (Uppsala).</p>
+<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA), Dr. Ulrike Heiter (Uppsala) & Dr. Valentina D'Orazi (Tor Vergata).</p>
 </div>
 
 <div class="cv-entry">
