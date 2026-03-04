@@ -19,7 +19,7 @@ permalink: /cv/
 <h3>MSc in Astrophysics and Space Science</h3>
 <p class="cv-meta">Erasmus Mundus Joint Master's (MASS)</p>
 <p class="cv-date">2024 – 2026</p>
-<p>Jointly enrolled at the Université Côte d'Azur and the Università degli Studi di Roma "Tor Vergata".<br>
+<p>Jointly enrolled at the Université Côte d'Azur and the Università degli Studi di Roma "Tor Vergata".</p>
 </div>
 
 <div class="cv-entry">
