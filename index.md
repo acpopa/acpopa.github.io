@@ -17,11 +17,11 @@ My research focuses on **characterising M-dwarf stars as exoplanet hosts** in pr
 <div class="highlight-box">
 <h3>Research Interests</h3>
 <ul>
-<li><strong>Asteroseismology</strong></li>
-<li><strong>Stellar and sub-stellar Astrophysics</strong></li>
-<li><strong>Stellar Parameters and Evolution</strong></li>
-<li><strong>Stellar Variability</strong></li>
-<li><strong>Stellar Interferometry</strong></li>
+<li>Asteroseismology</li>
+<li>Stellar and sub-stellar Astrophysics</li>
+<li>Stellar Parameters and Evolution</li>
+<li>Stellar Variability</li>
+<li>Stellar Interferometry</li>
 </ul>
 </div>
 
