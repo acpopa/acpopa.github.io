@@ -14,9 +14,9 @@ Before this, I completed an **MSci in Physics at University College London** wit
 
 ## Beyond Research
 
-I have a strong background in **science outreach and education**. I served as a demonstrator at the UCL Observatory in Mill Hill, London, where I led public observing sessions and school visits. I also co-founded an Astronomy & Astrophysics Club in my hometown, where I prepared students for national olympiads and helped spark their interest in the Universe. Additionally, I helped create TeachU.ro, the first free online tutoring platform in Romania.
+I have a strong background in **science outreach and education**. I served as a demonstrator at the UCL Observatory in Mill Hill, London, where I led public observing sessions and school visits. I also co-founded an Astronomy & Astrophysics Club in my hometown, where I prepared students for national olympiads and helped spark their interest in the Universe.
 
-I'm also an active **handball player, coach and referee** — I officiate matches under the England Handball Association and previously served as president and captain of the UCL Handball Club, leading the team to a bronze medal in national university competitions (BUCS).
+I'm also an active **handball referee** — I officiate matches under the England Handball Association.
 
 ## Contact
 

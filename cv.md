@@ -33,7 +33,7 @@ permalink: /cv/
 <div class="cv-entry">
 <h3>Master's Thesis Research</h3>
 <p class="cv-meta">Observatoire de la Côte d'Azur, Nice</p>
-<p class="cv-date">Sept 2025 – present</p>
+<p class="cv-date">Jan 2026 – Sept 2026</p>
 <p>Characterising M-dwarf Stars as Exoplanet Hosts in preparation for the PLATO Mission.<br>
 <strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA), Dr. Ulrike Heiter (Uppsala) & Dr. Valentina D'Orazi (Tor Vergata).</p>
 </div>

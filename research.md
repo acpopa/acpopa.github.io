@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-I am particularly interested in stellar characterisation for exoplanet science and the physics of stars.
+I am particularly interested in stellar astrophysics, in particular stellar characterisation for exoplanet science and the physics of stars.
 
 ## Current Project
 
