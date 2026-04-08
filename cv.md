@@ -63,7 +63,7 @@ permalink: /cv/
 
 ## Skills
 
-<ul class="skill-list">
+<ul class="skill-list" style="text-align: center; list-style-position: inside;">
 <li>Python</li>
 <li>CESAM</li>
 <li>GYRE</li>
