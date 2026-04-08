@@ -65,14 +65,9 @@ permalink: /cv/
 
 <ul class="skill-list">
 <li>Python</li>
-<li>TOPCAT</li>
-<li>DS9</li>
 <li>CESAM</li>
 <li>GYRE</li>
-<li>MATLAB</li>
-<li>IDL</li>
 <li>Git</li>
-<li>LaTeX</li>
 <li>Linux</li>
 </ul>
 
