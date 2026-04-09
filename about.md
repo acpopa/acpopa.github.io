@@ -20,6 +20,6 @@ I'm also an active **handball referee** — I officiate matches under the Englan
 
 ## Contact
 
-Feel free to reach out via email at [andrei-catalin.popa AT students.uniroma2.eu](mailto:andrei-catalin.popa@students.uniroma2.eu) or connect with me on [LinkedIn](https://www.linkedin.com/in/andrei-cătălin-popa/).
+Feel free to reach out via email at [andrei-catalin.popa AT students.uniroma2.eu](mailto:andrei-catalin.popa@students.uniroma2.eu).
 
 I'm always happy to discuss research, or outreach opportunities!
