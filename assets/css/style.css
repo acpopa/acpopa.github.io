@@ -13,6 +13,19 @@
   --accent-bg: #e8f0fe;
 }
 
+[data-theme="dark"] {
+  --primary: #f5f7fa;
+  --link: #8ab4f8;
+  --link-hover: #a8c7fa;
+  --text: #e8eaed;
+  --text-light: #b0b7c3;
+  --bg: #121212;
+  --bg-alt: #1e1e1e;
+  --border: #2c2c2c;
+  --accent: #8ab4f8;
+  --accent-bg: #1b2a41;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -96,6 +109,23 @@ a:hover {
   background: var(--accent-bg);
   color: var(--link);
   text-decoration: none;
+}
+
+.theme-toggle {
+  background: var(--bg-alt);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle:hover {
+  background: var(--accent-bg);
+  color: var(--link);
 }
 
 /* Main Layout */
@@ -271,7 +301,7 @@ a:hover {
 
 /* Highlight box */
 .highlight-box {
-  background: linear-gradient(135deg, var(--accent-bg) 0%, #f7faff 100%);
+  background: linear-gradient(135deg, var(--accent-bg) 0%, var(--bg-alt) 100%);
   border: 1px solid var(--border);
   border-left: 4px solid var(--accent);
   padding: 1.25rem 1.5rem;
