@@ -13,7 +13,7 @@
   --accent-bg: #e8f0fe;
 }
 
-[data-theme="dark"] {
+html[data-theme="dark"] {
   --primary: #f5f7fa;
   --link: #8ab4f8;
   --link-hover: #a8c7fa;
@@ -55,7 +55,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Top Navigation Bar */
 .masthead {
   background: var(--bg);
   border-bottom: 1px solid var(--border);
@@ -128,7 +127,6 @@ a:hover {
   color: var(--link);
 }
 
-/* Main Layout */
 .page-wrapper {
   max-width: 1100px;
   margin: 0 auto;
@@ -137,7 +135,6 @@ a:hover {
   gap: 3rem;
 }
 
-/* Left Sidebar */
 .sidebar {
   width: 250px;
   flex-shrink: 0;
@@ -202,7 +199,6 @@ a:hover {
   opacity: 0.7;
 }
 
-/* Social links */
 .author-links {
   display: flex;
   flex-wrap: wrap;
@@ -234,7 +230,6 @@ a:hover {
   height: 18px;
 }
 
-/* Main content */
 .main-content {
   flex: 1;
   min-width: 0;
@@ -283,7 +278,6 @@ a:hover {
   font-weight: 600;
 }
 
-/* Quote box */
 .quote-box {
   background: var(--bg-alt);
   border-left: 4px solid var(--text-light);
@@ -299,7 +293,6 @@ a:hover {
   font-size: 0.9rem;
 }
 
-/* Highlight box */
 .highlight-box {
   background: linear-gradient(135deg, var(--accent-bg) 0%, var(--bg-alt) 100%);
   border: 1px solid var(--border);
@@ -345,7 +338,6 @@ a:hover {
   font-size: 0.85rem;
 }
 
-/* Research entries */
 .entry {
   margin-bottom: 2rem;
   padding-bottom: 2rem;
@@ -378,7 +370,6 @@ a:hover {
   margin-bottom: 0;
 }
 
-/* CV entries */
 .cv-entry {
   margin-bottom: 1.5rem;
 }
@@ -408,7 +399,6 @@ a:hover {
   color: var(--text-light);
 }
 
-/* Button */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -436,7 +426,6 @@ a:hover {
   height: 18px;
 }
 
-/* Skills */
 .skill-list {
   display: flex;
   flex-wrap: wrap;
@@ -461,7 +450,6 @@ a:hover {
   color: var(--link);
 }
 
-/* Footer */
 .site-footer {
   max-width: 1100px;
   margin: 0 auto;
@@ -480,7 +468,6 @@ a:hover {
   color: var(--link);
 }
 
-/* Responsive */
 @media (max-width: 900px) {
   .masthead-inner {
     flex-direction: column;
