@@ -11,6 +11,17 @@
   --border: #e0e0e0;
   --accent: #1a73e8;
   --accent-bg: #e8f0fe;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.08);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.12);
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+
+  --transition-fast: 0.2s ease;
+  --transition-medium: 0.3s ease;
 }
 
 html[data-theme="dark"] {
@@ -24,6 +35,10 @@ html[data-theme="dark"] {
   --border: #2c2c2c;
   --accent: #8ab4f8;
   --accent-bg: #1b2a41;
+
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.22);
+  --shadow-md: 0 6px 18px rgba(0, 0, 0, 0.28);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, 0.38);
 }
 
 * {
@@ -39,15 +54,38 @@ html {
 body {
   font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   color: var(--text);
-  line-height: 1.65;
+  line-height: 1.7;
   background: var(--bg);
   font-size: 17px;
+  transition:
+    background-color var(--transition-medium),
+    color var(--transition-medium),
+    border-color var(--transition-medium);
+}
+
+body,
+.masthead,
+.site-nav a,
+.theme-toggle,
+.author-links a,
+.quote-box,
+.highlight-box,
+.skill-list li,
+.site-footer,
+.entry,
+.btn {
+  transition:
+    background-color var(--transition-medium),
+    color var(--transition-medium),
+    border-color var(--transition-medium),
+    box-shadow var(--transition-medium),
+    transform var(--transition-fast);
 }
 
 a {
   color: var(--link);
   text-decoration: none;
-  transition: color 0.2s;
+  transition: color var(--transition-fast);
 }
 
 a:hover {
@@ -55,12 +93,19 @@ a:hover {
   text-decoration: underline;
 }
 
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
 .masthead {
-  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
   border-bottom: 1px solid var(--border);
   position: sticky;
   top: 0;
   z-index: 100;
+  backdrop-filter: blur(10px);
 }
 
 .masthead-inner {
@@ -70,7 +115,8 @@ a:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 65px;
+  gap: 1rem;
+  height: 68px;
 }
 
 .site-title {
@@ -91,16 +137,21 @@ a:hover {
 
 .site-nav {
   display: flex;
-  gap: 0.5rem;
+  align-items: center;
+  gap: 0.4rem;
+  flex-wrap: wrap;
 }
 
 .site-nav a {
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0.95rem;
   color: var(--text);
   font-size: 0.95rem;
   font-weight: 600;
-  border-radius: 6px;
-  transition: all 0.2s;
+  border-radius: var(--radius-sm);
+  transition:
+    background-color var(--transition-fast),
+    color var(--transition-fast),
+    transform var(--transition-fast);
 }
 
 .site-nav a:hover,
@@ -110,27 +161,37 @@ a:hover {
   text-decoration: none;
 }
 
+.site-nav a:hover {
+  transform: translateY(-1px);
+}
+
 .theme-toggle {
   background: var(--bg-alt);
   color: var(--text);
   border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 0.45rem 0.7rem;
+  border-radius: 999px;
+  padding: 0.5rem 0.75rem;
   cursor: pointer;
   font-size: 1rem;
   line-height: 1;
-  transition: all 0.2s ease;
+  min-width: 42px;
+  min-height: 42px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow-sm);
 }
 
 .theme-toggle:hover {
   background: var(--accent-bg);
   color: var(--link);
+  transform: translateY(-1px);
 }
 
 .page-wrapper {
   max-width: 1100px;
   margin: 0 auto;
-  padding: 2.5rem 2rem;
+  padding: 2.75rem 2rem;
   display: flex;
   gap: 3rem;
 }
@@ -142,7 +203,7 @@ a:hover {
 
 .author-profile {
   position: sticky;
-  top: 90px;
+  top: 96px;
   text-align: center;
 }
 
@@ -154,14 +215,15 @@ a:hover {
   object-position: center top;
   margin-bottom: 1rem;
   border: 4px solid var(--bg-alt);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  box-shadow: var(--shadow-md);
 }
 
 .author-name {
-  font-size: 1.3rem;
+  font-size: 1.35rem;
   font-weight: 700;
   color: var(--primary);
   margin-bottom: 0.35rem;
+  line-height: 1.2;
 }
 
 .author-pronouns {
@@ -172,14 +234,14 @@ a:hover {
 }
 
 .author-bio {
-  font-size: 0.95rem;
+  font-size: 0.96rem;
   color: var(--text);
   margin-bottom: 1rem;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
 .author-meta {
-  font-size: 0.9rem;
+  font-size: 0.92rem;
   color: var(--text-light);
   margin-bottom: 1.25rem;
 }
@@ -196,7 +258,7 @@ a:hover {
   width: 16px;
   height: 16px;
   flex-shrink: 0;
-  opacity: 0.7;
+  opacity: 0.75;
 }
 
 .author-links {
@@ -209,20 +271,20 @@ a:hover {
 }
 
 .author-links a {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 5px;
   font-size: 0.85rem;
   color: var(--text-light);
-  padding: 0.3rem 0.5rem;
-  border-radius: 4px;
-  transition: all 0.2s;
+  padding: 0.38rem 0.6rem;
+  border-radius: var(--radius-sm);
 }
 
 .author-links a:hover {
   color: var(--link);
   background: var(--accent-bg);
   text-decoration: none;
+  transform: translateY(-1px);
 }
 
 .author-links svg {
@@ -237,27 +299,30 @@ a:hover {
 }
 
 .main-content h1 {
-  font-size: 2rem;
+  font-size: 2.1rem;
   font-weight: 700;
   color: var(--primary);
   margin-bottom: 1.5rem;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.025em;
+  line-height: 1.2;
 }
 
 .main-content h2 {
-  font-size: 1.4rem;
+  font-size: 1.45rem;
   font-weight: 700;
   color: var(--primary);
   margin: 2.5rem 0 1rem;
-  padding-bottom: 0.4rem;
+  padding-bottom: 0.45rem;
   border-bottom: 2px solid var(--accent);
+  letter-spacing: -0.015em;
 }
 
 .main-content h3 {
-  font-size: 1.1rem;
+  font-size: 1.12rem;
   font-weight: 700;
   color: var(--primary);
-  margin: 1.5rem 0 0.5rem;
+  margin: 1.5rem 0 0.55rem;
+  line-height: 1.3;
 }
 
 .main-content p {
@@ -285,6 +350,7 @@ a:hover {
   margin: 1.5rem 0;
   font-style: italic;
   color: var(--text-light);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
 }
 
 .quote-box .attribution {
@@ -298,15 +364,14 @@ a:hover {
   border: 1px solid var(--border);
   border-left: 4px solid var(--accent);
   padding: 1.25rem 1.5rem;
-  border-radius: 10px;
+  border-radius: var(--radius-md);
   margin: 1.75rem 0;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: var(--shadow-sm);
 }
 
 .highlight-box:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+  box-shadow: var(--shadow-md);
 }
 
 .highlight-box h3 {
@@ -326,8 +391,12 @@ a:hover {
 .highlight-box li {
   position: relative;
   padding-left: 18px;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.45rem;
   font-weight: 500;
+}
+
+.highlight-box li:last-child {
+  margin-bottom: 0;
 }
 
 .highlight-box li::before {
@@ -355,10 +424,10 @@ a:hover {
 }
 
 .entry-meta {
-  font-size: 0.9rem;
+  font-size: 0.92rem;
   color: var(--link);
-  margin-bottom: 0.5rem;
-  font-weight: 500;
+  margin-bottom: 0.55rem;
+  font-weight: 600;
 }
 
 .entry p {
@@ -384,7 +453,7 @@ a:hover {
   font-size: 0.95rem;
   color: var(--link);
   margin-bottom: 0.15rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .cv-date {
@@ -399,18 +468,23 @@ a:hover {
   color: var(--text-light);
 }
 
+/* Button */
 .btn {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
   background: var(--link);
   color: #fff;
-  padding: 0.6rem 1.25rem;
-  border-radius: 6px;
+  padding: 0.68rem 1.3rem;
+  border-radius: var(--radius-sm);
   font-size: 0.95rem;
   font-weight: 600;
-  transition: all 0.2s;
-  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.3);
+  transition:
+    background-color var(--transition-fast),
+    color var(--transition-fast),
+    transform var(--transition-fast),
+    box-shadow var(--transition-fast);
+  box-shadow: 0 2px 8px rgba(26, 115, 232, 0.25);
 }
 
 .btn:hover {
@@ -418,7 +492,7 @@ a:hover {
   color: #fff;
   text-decoration: none;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(26, 115, 232, 0.4);
+  box-shadow: 0 4px 12px rgba(26, 115, 232, 0.35);
 }
 
 .btn svg {
@@ -437,17 +511,17 @@ a:hover {
 .skill-list li {
   background: var(--bg-alt);
   border: 1px solid var(--border);
-  padding: 0.35rem 0.85rem;
-  border-radius: 20px;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
   font-size: 0.9rem;
   margin-bottom: 0;
-  transition: all 0.2s;
 }
 
 .skill-list li:hover {
   background: var(--accent-bg);
   border-color: var(--link);
   color: var(--link);
+  transform: translateY(-1px);
 }
 
 .site-footer {
@@ -471,18 +545,18 @@ a:hover {
 @media (max-width: 900px) {
   .masthead-inner {
     flex-direction: column;
+    justify-content: center;
     height: auto;
     padding: 1rem;
     gap: 0.75rem;
   }
 
   .site-nav {
-    flex-wrap: wrap;
     justify-content: center;
   }
 
   .site-nav a {
-    padding: 0.4rem 0.75rem;
+    padding: 0.42rem 0.78rem;
     font-size: 0.9rem;
   }
 
@@ -507,7 +581,7 @@ a:hover {
   }
 
   .main-content h1 {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
   }
 
   .main-content h2 {
