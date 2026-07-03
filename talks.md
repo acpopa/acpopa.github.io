@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Talks & Presentations
+title: Talks
+permalink: /talks/
 ---
-
 ## Talks & Presentations
 
 ### 2026
