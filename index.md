@@ -33,4 +33,7 @@ I aim to further develop my expertise in stellar astrophysics as it naturally co
 - **2024:** Erasmus Mundus Joint Master's in Astrophysics and Space Science (MASS).
 - **2022:** Graduated from UCL with MSci Physics (First Class Honours).
 
+From Satellites to Spacetime
+
+
 For more details, see my [Research](research/) page or my [CV](cv/).
