@@ -73,6 +73,7 @@ permalink: /cv/
 
 ## Service & Leadership
 
+-- **Fellow**, Royal Astronomical Society (2026–present)
 - **Student Representative**, Quality Evaluation Committee — MASS (2024–25)
 - **Handball Referee**, England Handball Association (2023–present)
 - **Member**, Mensa Romania (2017–present)
