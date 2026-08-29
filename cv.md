@@ -50,7 +50,7 @@ permalink: /cv/
 <h3>MSci Thesis</h3>
 <p class="cv-meta">UCL / Mullard Space Science Laboratory</p>
 <p class="cv-date">Oct 2021 – Mar 2022</p>
-<p>Detectability of intermediate-mass black holes via astrometry.<br>
+<p>Detectability of intermediate-mass black holes.<br>
 <strong>Supervisor</strong>: Prof. Daisuke Kawata.</p>
 </div>
 
