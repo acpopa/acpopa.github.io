@@ -16,6 +16,12 @@ permalink: /cv/
 ## Education
 
 <div class="cv-entry">
+<h3>PhD in Physics</h3>
+<p class="cv-meta">Keele University</p>
+<p class="cv-date">2026 – 2030</p>
+</div>
+
+<div class="cv-entry">
 <h3>MSc in Astrophysics and Space Science</h3>
 <p class="cv-meta">Erasmus Mundus Joint Master's (MASS)</p>
 <p class="cv-date">2024 – 2026</p>
