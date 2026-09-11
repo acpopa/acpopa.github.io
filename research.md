@@ -10,14 +10,16 @@ I am particularly interested in stellar astrophysics, in particular stellar char
 
 ## Current Project
 
+To be updated.
+
+## Past Projects
+
 <div class="entry">
 <h3>Characterising M-Dwarf Stars as Exoplanet Hosts in preparation for the PLATO Mission</h3>
 <p class="entry-meta">Master's Thesis · Observatoire de la Côte d'Azur · 2025–present</p>
 <p>The ESA PLATO mission, scheduled for launch in late 2026, aims to detect and characterise Earth-like planets around Sun-like and low-mass stars. Reliable planet characterisation requires precise knowledge of the host star's fundamental properties — mass, radius, and effective temperature.</p>
 <p>My thesis focuses on establishing accurate stellar parameters for benchmark M-dwarf stars, which will serve as calibrators for the PLATO analysis pipelines. This work involves developing Python-based analysis pipelines to compare photometric and spectroscopic observations with theoretical models, and validating the results against literature benchmarks. The ultimate goal is to improve the precision of stellar parameters for M-dwarfs, enabling more accurate inference of planetary properties in PLATO's target sample.</p>
 </div>
-
-## Past Projects
 
 <div class="entry">
 <h3>White Dwarf Cooling Sequences & Infrared Colour Excess</h3>
