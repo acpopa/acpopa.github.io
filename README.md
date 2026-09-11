@@ -3,7 +3,7 @@
 Personal academic website.
 
 **Andrei-Cătălin Popa**  
-EMJM Astrophysics & Space Science Graduate Student  
-Université Côte d'Azur · Università di Roma Tor Vergata
+PhD Research Student  
+Astrophysics Research Centre · Keele University
 
 🔗 [acpopa.github.io](https://acpopa.github.io)

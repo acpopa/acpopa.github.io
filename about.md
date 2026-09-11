@@ -8,9 +8,9 @@ permalink: /about/
 
 I'm **Andrei-Cătălin Popa**, a graduate student with a strong interest in stellar astrophysics and a passion for science outreach.
 
-I am currently pursuing an Erasmus Mundus Joint Master's degree in **Astrophysics and Space Science (MASS)**, jointly enrolled at Université Côte d'Azur (Nice, France) and Università degli Studi di Roma "Tor Vergata" (Rome, Italy). **MASS** is an intersectoral, research-oriented programme covering state-of-the-art research in six main pillars: Gravitation and Cosmology, Stellar Astrophysics, Exoplanets, Astrophysical Techniques, Astrostatistics and Big Data, and Space Science. The programme is delivered by a consortium of four universities across Europe, combining complementary expertise to provide advanced training in modern astrophysics through a strong integration of theoretical knowledge, data analysis, and hands-on research experience. 
+I am currently pursuing a PhD in Astrophysics in the Astrophysics Research Centre at Keele University.
 
-Before this, I completed an **MSci in Physics at University College London** with First Class Honours, where I received a well-rounded education in fundamental physics, followed by a final-year focus on astronomy and astrophysics.
+Before this, I completed an research-oriented ***Erasmus Mundus Joint Master's Degree in Astrophysics and Space Science (MASS)*** at Université Côte d'Azur (Nice, France) and Università degli Studi di Roma "Tor Vergata" (Rome, Italy), supported by a full-merit scholarship co-funded by the European Union, and **MSci in Physics at University College London** with First Class Honours, where I received a well-rounded education in fundamental physics, followed by a final-year focus on astronomy and astrophysics.
 
 ## Beyond Research
 

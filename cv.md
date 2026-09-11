@@ -37,11 +37,27 @@ permalink: /cv/
 ## Research Experience
 
 <div class="cv-entry">
+<h3>PhD Research</h3>
+<p class="cv-meta">Astrophysics Research Centre & Keele University, Keele</p>
+<p class="cv-date">Jan 2026 – Sept 2026</p>
+<p>Calibrating Stellar Models with Chemical Tracers of Internal Mixing Processes.<br>
+<strong>Supervisors</strong>: Dr. Pierre Maxted (Keele).</p>
+</div>
+
+<div class="cv-entry">
 <h3>Master's Thesis Research</h3>
 <p class="cv-meta">Observatoire de la Côte d'Azur, Nice</p>
-<p class="cv-date">Jan 2026 – Sept 2026</p>
+<p class="cv-date">Mar 2026 – Sept 2026</p>
 <p>Characterising M-dwarf Stars as Exoplanet Hosts in preparation for the PLATO Mission.<br>
 <strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA), Dr. Ulrike Heiter (Uppsala) & Dr. Valentina D'Orazi (Tor Vergata).</p>
+</div>
+
+<div class="cv-entry">
+<h3>Research Internship</h3>
+<p class="cv-meta">Observatoire de la Côte d'Azur, Nice</p>
+<p class="cv-date">Jan 2026 – Feb 2026</p>
+<p>Fundamental parameters of FGK stars.<br>
+<strong>Supervisors</strong>: Dr. Orlagh Creevey (OCA) & Dr. Caroline Soubiran (Bordeaux).</p>
 </div>
 
 <div class="cv-entry">
@@ -62,6 +78,7 @@ permalink: /cv/
 
 ## Scholarships & Awards
 
+- **2026–2030:** Science and Technology Facilities Council (STFC)/ UKRI PhD Scholarship - £21,805 p.a.
 - **2024–2026:** Erasmus Mundus Joint Master's Scholarship (EACEA) — €33,600
 - **2022:** UCL Summer Research Internship Scholarship — £2,000
 - **2022:** Ogden Trust "Teach Physics" Internship — £1,400
@@ -82,7 +99,6 @@ permalink: /cv/
 - **Fellow**, Royal Astronomical Society (2026–present)
 - **Student Representative**, Quality Evaluation Committee — MASS (2024–25)
 - **Handball Referee**, England Handball Association (2023–present)
-- **Member**, Mensa Romania (2017–present)
 
 ## Professional Experience
 

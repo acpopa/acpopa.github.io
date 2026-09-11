@@ -10,9 +10,9 @@ title: "Home"
 <div class="attribution">— George E. P. Box</div>
 </div>
 
-I am an Erasmus Mundus Joint Master's student in **Astrophysics and Space Science (MASS)**, jointly enrolled at Université Côte d'Azur and Università degli Studi di Roma "Tor Vergata". I am currently based at the Université Côte d'Azur & Observatoire de la Côte d'Azur in Nice, France.
+I am a graduate student in **Astrophysics**, pursuing my research at the Astrophysics Research Centre and the Univesity of Keele.
 
-My research focuses on **characterising M-dwarf stars as exoplanet hosts** in preparation for the ESA PLATO mission. I previously completed my MSci in Physics at University College London with First Class Honours, during which my thesis investigated intermediate-mass black holes.
+My research focuses on **stellar characterisation** in preparation for the ESA PLATO mission. I previously completed an MSc in Astrophysics and Space Sciencea at Université Côte d'Azur (Nice, France) and Università degli Studi di Roma "Tor Vergata" (Rome, Italy), during which my thesis investigate fundamental stellar parameters of M-dwarfs, and an MSci in Physics at University College London with First Class Honours, during which my thesis investigated intermediate-mass black holes.
 
 <div class="highlight-box">
 <h3>Research Interests</h3>
@@ -28,9 +28,6 @@ I aim to further develop my expertise in stellar astrophysics as it naturally co
 ## Recent Updates
 
 - **2026:** Thesis on the characterisation of M-dwarf stars for the PLATO mission at OCA.
-- **2026:** Internship on the fundamental stellar parameters of FGK stars at OCA.
-- **2025:** Summer research project on white dwarf cooling sequences at ARI & LJMU.
-- **2024:** Erasmus Mundus Joint Master's in Astrophysics and Space Science (MASS).
 - **2022:** Graduated from UCL with MSci Physics (First Class Honours).
 
 For more details, see my [Research](research/) page or my [CV](cv/).
