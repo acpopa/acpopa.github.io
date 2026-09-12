@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## Publication
+## Publications
 
 **[3]**
 
