@@ -12,7 +12,7 @@ title: "Home"
 
 I am a graduate student in **Astrophysics**, pursuing my research at the Astrophysics Research Centre and the Univesity of Keele.
 
-My research focuses on **stellar characterisation** in preparation for the ESA PLATO mission. I previously completed an MSc in Astrophysics and Space Sciencea at Université Côte d'Azur (Nice, France) and Università degli Studi di Roma "Tor Vergata" (Rome, Italy), during which my thesis investigate fundamental stellar parameters of M-dwarfs, and an MSci in Physics at University College London with First Class Honours, during which my thesis investigated intermediate-mass black holes.
+My research focuses on **stellar characterisation** in preparation for the ESA PLATO mission. I previously completed an MSc in Astrophysics and Space Sciences at Université Côte d'Azur (Nice, France) and Università degli Studi di Roma "Tor Vergata" (Rome, Italy), during which my thesis investigate fundamental stellar parameters of M-dwarfs, and an MSci in Physics at University College London with First Class Honours, during which my thesis investigated intermediate-mass black holes.
 
 <div class="highlight-box">
 <h3>Research Interests</h3>
